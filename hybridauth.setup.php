@@ -18,7 +18,8 @@
  * [BEGIN_COT_EXT_CONFIG]
  * providers=01:textarea:::List Providers
  * autoreg=02:radio::1:Enabled auto registration?
- * remember=03:radio::1:Remember the user for Auto Login?
+ * disablemanualreg=03:radio::1:Disable manual registration?
+ * remember=04:radio::1:Remember the user for Auto Login?
  * s_mail=07:radio:0,1:0:Send message?
  * [END_COT_EXT_CONFIG]
  * 

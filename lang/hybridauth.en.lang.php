@@ -31,6 +31,7 @@ $L['cfg_header_form']= array('Type of authorization form for header part (button
 $L['cfg_auth_form']= array('Type of authorization form for the auth part (button, form)');
 $L['cfg_profile_form']= array('Type of authorization form for the profile part (button, form)');
 $L['cfg_autoreg']= array('Enable Auto Login?','The user is automatically created when during his first login.');
+$L['cfg_disablemanualreg']= array('Disable manual registration?','');
 $L['cfg_remember']= array('Remember the user for Auto Login?');
 $L['cfg_s_mail']= array('Send a notice of new user registration by email?', 'It only works if email was given. The mail sent to newly registered user contains his username and password.');
 $L['lz_enter'] = 'Login using';
